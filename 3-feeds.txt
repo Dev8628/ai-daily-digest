@@ -1,0 +1,4 @@
+# One RSS/Atom feed URL per line. Lines starting with # are ignored.
+https://openai.com/news/rss.xml
+https://huggingface.co/blog/feed.xml
+https://blog.google/technology/ai/rss/
